@@ -1,4 +1,5 @@
 lamey lame lameos are lame
+<<<<<<< HEAD
 
 lame.
 lame.
@@ -39,3 +40,5 @@ lame.
 lame.
 lame.
 lame.
+=======
+>>>>>>> 47eb39e2496e34c638ec9bc6ab103ba36c0cd42c
